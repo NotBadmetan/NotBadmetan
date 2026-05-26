@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NotBadmetan
 - 👀 I’m interested in Badminton
 - 🌱 I’m currently learning Python and Jupyter notebook
-- 📫 Discord - .badmetan
+- 📫 Instagram - badmetan
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I hate you
 
