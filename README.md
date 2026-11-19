@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NotBadmetan
 - 👀 I’m interested in Badminton
-- 🌱 I’m currently learning Python and Jupyter notebook
+- 🌱 I’m currently building Badmetan v1.1
 - 📫 Instagram - badmetan
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I hate you
